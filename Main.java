@@ -40,7 +40,7 @@ public class Main {
             } else {
             }
         }
-
+// helllo
         //north south controls for control scheme 2
         if (control == 2) {
             if (input.equals("n")) {
